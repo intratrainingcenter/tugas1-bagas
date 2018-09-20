@@ -1,1 +1,9 @@
-# tugas1-bagas
+Kelompok 4:
+Team Besar 
+  1. obed
+  2. ramadani
+  3. bagas
+  4. gabriel
+ Team Kecil
+  1. Bagas
+  2. Gabriel
